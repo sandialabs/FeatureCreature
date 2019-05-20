@@ -1,0 +1,7 @@
+#General files to ignore#
+**/*.pyc
+
+#MAC Files#
+**/.DS_Store
+**/.DS_Store?
+
